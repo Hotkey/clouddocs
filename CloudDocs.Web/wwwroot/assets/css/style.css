@@ -1,0 +1,9 @@
+.validation-summary-errors {
+    color:red;
+}
+.validation-summary-errors li {
+    list-style:disc;
+}
+.bold {
+    font-weight:bold;
+}
